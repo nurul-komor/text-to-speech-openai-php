@@ -1,4 +1,8 @@
 ```
+composer require guzzlehttp/guzzle
+```
+
+```
 
 require __DIR__ . '/vendor/autoload.php';
 
